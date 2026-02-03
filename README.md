@@ -84,7 +84,7 @@ Advanced users may miss some deep server-level options. Shared hosting customers
 ## Hostinger Pricing and Value in 2026
 Hostinger remains known for competitive pricing. Long-term plans offer the best rates.
 
-If you plan to sign up, you can reduce costs further using a verified **[Hostinger Coupon Code]([url](https://gitlab.aicrowd.com/-/snippets/423402))** during checkout.
+If you plan to sign up, you can reduce costs further using a verified **[Hostinger Coupon Code](https://gitlab.aicrowd.com/-/snippets/423402)** during checkout.
 
 ### Current Plan Structure
 Hostinger offers:
