@@ -6,7 +6,8 @@ NVMe storage has become the baseline, LiteSpeed servers push faster page loads, 
 
 I will walk through performance, features, control panel usability, pricing, and real-world value. I will also place Hostinger side by side with a long-standing rival so you can see where it truly stands.
 
-> [!TIP] **(Bonus):** Hostinger currently offers a free domain with eligible plans and discounts of up to 86% on hosting. **[Click Here](https://hostinger.in?REFERRALCODE=WEBPRO2025)** to claim now.
+> [!TIP]
+> **Bonus Tip:** Hostinger currently offers a free domain with eligible plans and discounts of up to 86% on hosting. **[Click Here](https://hostinger.in?REFERRALCODE=WEBPRO2025)** to claim now.
 
 ## Hostinger in 2026: Where It Fits in the Current Hosting Market
 
